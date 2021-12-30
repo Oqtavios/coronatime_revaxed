@@ -1,0 +1,6 @@
+{
+  "latest": 1,
+  "versions": [
+    {"build": 1, "title": "First release", "description": "Might be unstable", "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/launcher_build1/launcher_installer.exe", "hash": "c5b6bcf23f1332e2e59f761473b2cf9b606fdffe491b0d370bb8cf4be4096cf6"},
+  ]
+}
