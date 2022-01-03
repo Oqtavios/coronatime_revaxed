@@ -1,7 +1,8 @@
 {
-  "latest": 2,
+  "latest": 3,
   "versions": [
     {"build": 1, "title": "First release", "description": "Might be unstable", "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/launcher_build1/launcher_installer.exe", "hash": "c5b6bcf23f1332e2e59f761473b2cf9b606fdffe491b0d370bb8cf4be4096cf6"},
-	{"build": 2, "title": "0.9.1", "description": "Added ram amount modifier, executable path selector, fixed post install script not working in partial updates, hidden command prompt while running post install script, started working on logging", "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/launcher_build2/launcher_installer.exe", "hash": "9ab12ef7cd915821fac18e02944f01b8de1999520157bb2abab7aa94550af8ac"}
+	{"build": 2, "title": "0.9.1", "description": "Added ram amount modifier, executable path selector, fixed post install script not working in partial updates, hidden command prompt while running post install script, started working on logging", "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/launcher_build2/launcher_installer.exe", "hash": "9ab12ef7cd915821fac18e02944f01b8de1999520157bb2abab7aa94550af8ac"},
+	{"build": 3, "title": "0.9.2", "description": "Made software updates indicator more visible\nAdded image loading animation\nAdded launcher update progress indicator\nFixed 10 second wait after launcher update", "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/launcher_build3/launcher_installer.exe", "hash": "a5cfb7006b9dea58f51d8d291a371f455d731354caf27303ac04a01539b19353"}
   ]
 }
