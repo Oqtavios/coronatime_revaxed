@@ -1,5 +1,5 @@
 {
-  "lastUpdateTime" : 1,
+  "lastUpdateTime" : 1643502827000,
   "list": [
     {
       "title": "Картинная галерея карантинного крафта",
@@ -10,6 +10,11 @@
       "title": "Переголосование на выборах в картины 2020",
       "description": "Всё уже решено",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeVjhbA3deDYHEmPAN4GVZgFZYMSoRAgdk7yyqVmaRETihChw/viewform?usp=sf_link"
+    },
+	{
+      "title": "Выбираем стиль кнопок в лончере",
+      "description": "Скажем NFT - No Fucking Thanks, спасём планету и проголосуем за лучшую кнопочку",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSf_VEbJm_KR5y1zqm0s33pRZstvrGO2U_e2kF5qlx74NBNl1Q/viewform?usp=sf_link"
     }
   ]
 }
