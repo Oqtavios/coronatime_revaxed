@@ -15,6 +15,11 @@
       "title": "Выбираем стиль кнопок в лончере",
       "description": "Скажем NFT - No Fucking Thanks, спасём планету и проголосуем за лучшую кнопочку",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSf_VEbJm_KR5y1zqm0s33pRZstvrGO2U_e2kF5qlx74NBNl1Q/viewform?usp=sf_link"
+    },
+	{
+      "title": "Панель управления сервером",
+      "description": "Если сервер выключен или завис, то его можно включить одним нажатием кнопки. Пароль спрашиваем у админа))",
+      "link": "https://coronatime-panel.itsleo.cc"
     }
   ]
 }
