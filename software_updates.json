@@ -60,9 +60,9 @@
 			"assets": 1,
 			"libraries": 1,
 			"versions": 1,
-			"mods": 2,
+			"mods": 3,
 			"branding": 2,
-			"resources": 2,
+			"resources": 3,
 			"skins": 2,
 			"misc": 2,
 			"java": 1
@@ -96,7 +96,7 @@
 		  "baseDirectories": ["mods"],
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
-			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build2/mods.zip", "hash": "ce64a5c21e7e15b174034d682e7eb5b09787ba724948b5baf0332e25c653ba8e"}
+			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"}
 		  ]
 	  },
 	  "branding": {
@@ -112,7 +112,7 @@
 		  "baseDirectories": ["config/openloader"],
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
-			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build2/resources.zip", "hash": "e64d2fcc35c5462d8e3baacca8991f0a568b0f93470df8272db4eb996f32d47b"}
+			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"}
 		  ]
 	  },
 	  "skins": {
