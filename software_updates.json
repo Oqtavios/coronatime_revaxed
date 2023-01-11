@@ -65,7 +65,8 @@
 			"resources": 3,
 			"skins": 2,
 			"misc": 2,
-			"java": 1
+			"java": 1,
+			"shaderpacks": 1
 		}
 	}
   ],
@@ -136,6 +137,13 @@
 		  "baseDirectories": null,
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/java_build1/java.zip", "hash": "19730b9af0a0b9ef25fca49aec79286e21fbe2066105fca2eb0c3400cfb8a8ef"}
+		  ]
+	  },
+	  "shaderpacks": {
+		  "title": "Shader packs",
+		  "baseDirectories": null,
+		  "versions": [
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/shaderpacks_build1/shaderpacks.zip", "hash": "6a932c1cd50546c11f8ecbe54a0414a18c6600326735a6f29f8fe50cda93041b"}
 		  ]
 	  }
   }
