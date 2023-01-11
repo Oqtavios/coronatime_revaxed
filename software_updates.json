@@ -1,5 +1,5 @@
 {
-  "latest": 23,
+  "latest": 24,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -47,6 +47,26 @@
 			"misc": 1,
 			"java": 1
 		}
+	},
+	{
+		"build": 24,
+		"minBaseVersion": 23,
+		"title": "2.1.0 - Фрихетэн",
+		"description": "Новогодние праздники закончились, так что встречайте Фрихетэн!\nВ этой версии были добавлены новые моды:\n🏞️Oculus - ШЕЙДЕРЫ вернулись!\n🖼️Immersive Paintings - загружайте свои пикчи и делайте из них картины в игре!\n💡Dynamic Lights Reforged - динамическое освещение без лагов и совместимое с Rubidium.\nRubidium Extras - больше настроек, фич и оптимизаций для Rubidium (замена Optifine).\nТакже были обновлены некоторые моды и удалены ненужные.\n🧍‍♂️Обновлён скин игрока Antatuan.",
+		"image": "https://coronatime.itsleo.cc/news/images/build_24.png",
+		"triggerVideo": false,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 1,
+			"libraries": 1,
+			"versions": 1,
+			"mods": 2,
+			"branding": 2,
+			"resources": 2,
+			"skins": 2,
+			"misc": 2,
+			"java": 1
+		}
 	}
   ],
   "parts": {
@@ -75,35 +95,40 @@
 		  "title": "Mods",
 		  "baseDirectories": ["mods"],
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build2/mods.zip", "hash": "ce64a5c21e7e15b174034d682e7eb5b09787ba724948b5baf0332e25c653ba8e"}
 		  ]
 	  },
 	  "branding": {
 		  "title": "Branding",
 		  "baseDirectories": null,
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build1/branding.zip", "hash": "6a98aef373974d5eede4a7582aafa98ec9869ee068b4e74b204cd20bdc957c75"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build1/branding.zip", "hash": "6a98aef373974d5eede4a7582aafa98ec9869ee068b4e74b204cd20bdc957c75"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"}
 		  ]
 	  },
 	  "resources": {
 		  "title": "Resources",
 		  "baseDirectories": ["config/openloader"],
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build2/resources.zip", "hash": "e64d2fcc35c5462d8e3baacca8991f0a568b0f93470df8272db4eb996f32d47b"}
 		  ]
 	  },
 	  "skins": {
 		  "title": "Skins",
 		  "baseDirectories": ["cachedImages"],
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/skins_build1/skins.zip", "hash": "f97e24b5f3b57c4de6c75cd940df6997eb753138ec9ff9339166eeed790ab8c2"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/skins_build1/skins.zip", "hash": "f97e24b5f3b57c4de6c75cd940df6997eb753138ec9ff9339166eeed790ab8c2"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/skins_build2/skins.zip", "hash": "2677654f717a9fd04f210d8c8f06c51d5314da1e8ed73d53c1948df5efcb48c9"}
 		  ]
 	  },
 	  "misc": {
 		  "title": "Miscellanious",
 		  "baseDirectories": null,
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build1/misc.zip", "hash": "643122e8360054210c5afa8741318427de36e2b95d65f13b0b1c044cb825cc30"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build1/misc.zip", "hash": "643122e8360054210c5afa8741318427de36e2b95d65f13b0b1c044cb825cc30"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build2/misc.zip", "hash": "37247ec42de6ccb8c6651f0e310ad589037612adccb9b9c0e82268601651dd74"}
 		  ]
 	  },
 	  "java": {
