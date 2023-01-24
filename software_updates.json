@@ -119,7 +119,7 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"},
-			{"build": 3, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"}
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"}
 		  ]
 	  },
 	  "branding": {
