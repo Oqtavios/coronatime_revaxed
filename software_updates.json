@@ -1,5 +1,5 @@
 {
-  "latest": 24,
+  "latest": 25,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -68,6 +68,27 @@
 			"java": 1,
 			"shaderpacks": 1
 		}
+	},
+	{
+		"build": 25,
+		"minBaseVersion": 23,
+		"title": "2.2.0 - Хауга",
+		"description": "Очередное обновление, НО\n🚨Был добавлен новый мод, созданный специально для нашего модпака - Coronatime Blocks (новые блоки, полублочная разметка, батареи и мустанг)\nЕщё несколько новых модов:\n🛑Saro's Road Signs\n👀Nifty\n🚉Joban Client Mod - декорации для станций и железных дорог\n⚙️Fastload Reforged и Raised - небольшие моды, один из которых (в теории) ускоряет загрузку мира, а второй немного фиксит интерфейс\nТакже были обновлены некоторые моды",
+		"image": "https://coronatime.itsleo.cc/news/images/build_25.png",
+		"triggerVideo": true,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 1,
+			"libraries": 1,
+			"versions": 1,
+			"mods": 4,
+			"branding": 2,
+			"resources": 3,
+			"skins": 2,
+			"misc": 3,
+			"java": 1,
+			"shaderpacks": 1
+		}
 	}
   ],
   "parts": {
@@ -97,7 +118,8 @@
 		  "baseDirectories": ["mods"],
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
-			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"}
+			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"},
+			{"build": 3, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"}
 		  ]
 	  },
 	  "branding": {
@@ -129,7 +151,8 @@
 		  "baseDirectories": null,
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build1/misc.zip", "hash": "643122e8360054210c5afa8741318427de36e2b95d65f13b0b1c044cb825cc30"},
-			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build2/misc.zip", "hash": "37247ec42de6ccb8c6651f0e310ad589037612adccb9b9c0e82268601651dd74"}
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build2/misc.zip", "hash": "37247ec42de6ccb8c6651f0e310ad589037612adccb9b9c0e82268601651dd74"},
+			{"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build3/misc.zip", "hash": "f03fcbc12287c00feed5c13544157010687be6131fc48019d3142547dd9a3acb"}
 		  ]
 	  },
 	  "java": {
