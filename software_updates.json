@@ -1,5 +1,5 @@
 {
-  "latest": 25,
+  "latest": 26,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -89,6 +89,27 @@
 			"java": 1,
 			"shaderpacks": 1
 		}
+	},
+	{
+		"build": 26,
+		"minBaseVersion": 23,
+		"title": "2.2.1 - Циркустэльт",
+		"description": "Добро пожаловать в диагональный мир!\nДа, в Coronatime Blocks были добавлены диагональный асфальт и плотная грязь!\nТакже теперь у нас есть логотипы трёх видов железнодорожного движения: Coronatime Travel, Corona City Underground, AeroExpress™\nНу и были обновлены некоторые моды и добавлено дополнение для мода на транспорт: Nemo's Transit Expansion, в нём вы увидите пару новых поездов, 3D-рельсы и кондукторов/машинистов*",
+		"image": "https://coronatime.itsleo.cc/news/images/build_26.jpg",
+		"triggerVideo": false,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 1,
+			"libraries": 1,
+			"versions": 1,
+			"mods": 5,
+			"branding": 2,
+			"resources": 4,
+			"skins": 2,
+			"misc": 3,
+			"java": 1,
+			"shaderpacks": 1
+		}
 	}
   ],
   "parts": {
@@ -119,7 +140,8 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"},
-			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"}
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"},
+			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build5/mods.zip", "hash": "6724fd82d0122aa3249bc3d58f44ec33c33a11db4b29973a807af287b4d022ea"}
 		  ]
 	  },
 	  "branding": {
@@ -135,7 +157,8 @@
 		  "baseDirectories": ["config/openloader"],
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
-			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"}
+			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"},
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build4/resources.zip", "hash": "9c2788a67e18653e70d645e8a176bf6aed670b2e693a33b85f8f25163475020d"}
 		  ]
 	  },
 	  "skins": {
