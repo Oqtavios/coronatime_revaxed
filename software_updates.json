@@ -104,7 +104,7 @@
 			"versions": 1,
 			"mods": 5,
 			"branding": 2,
-			"resources": 4,
+			"resources": 5,
 			"skins": 2,
 			"misc": 3,
 			"java": 1,
@@ -158,7 +158,7 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"},
-			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build4/resources.zip", "hash": "9c2788a67e18653e70d645e8a176bf6aed670b2e693a33b85f8f25163475020d"}
+			{"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"}
 		  ]
 	  },
 	  "skins": {
