@@ -1,5 +1,5 @@
 {
-  "latest": 26,
+  "latest": 27,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -110,6 +110,27 @@
 			"java": 1,
 			"shaderpacks": 1
 		}
+	},
+	{
+		"build": 27,
+		"minBaseVersion": 23,
+		"title": "2.2.2 - Чилистрон",
+		"description": "Наступил март, весна, самое время чилить и ухаживать за распукающимися цветами в подставке Чилистрон от IKEA...\nНо у нас апокалипсис, так что:\n🔃Было обновлено 17 модов, среди интересных изменений: новые блоки букв и цифр, \"работающие\" светофоры в beta, режим граффити для прозрачных картин\n💽Новый (для 1.19) мод Dynamic Music, который добавляет больше музыки в игру и создаёт приятную атмосферу\n🖼️Бэкпорт темы с высокой контрастностью интерфейса из 1.19.4 и новые панорама в меню и фон экрана загрузки",
+		"image": null,
+		"triggerVideo": true,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 1,
+			"libraries": 1,
+			"versions": 1,
+			"mods": 6,
+			"branding": 3,
+			"resources": 6,
+			"skins": 2,
+			"misc": 3,
+			"java": 1,
+			"shaderpacks": 2
+		}
 	}
   ],
   "parts": {
@@ -141,7 +162,8 @@
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build1/mods.zip", "hash": "2b9a40cac2701b41d7c778b3cdb87e6cc449392edc8a5eac4462862c65fb342a"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build3/mods.zip", "hash": "18e90a9c5f11717f18855f09f0b240e08d86abcfc433403d6c712beff9821ca4"},
 			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build4/mods.zip", "hash": "f362f229c3cc27e6d634cb9d95d22e5817b7772a7e004e7b541c33f2f8760398"},
-			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build5/mods.zip", "hash": "6724fd82d0122aa3249bc3d58f44ec33c33a11db4b29973a807af287b4d022ea"}
+			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build5/mods.zip", "hash": "6724fd82d0122aa3249bc3d58f44ec33c33a11db4b29973a807af287b4d022ea"},
+			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build6/mods.zip", "hash": "42827e6abd2bd103c8e71c3e02a3b90bb5a8edc8ede081664554157618491940"}
 		  ]
 	  },
 	  "branding": {
@@ -149,7 +171,8 @@
 		  "baseDirectories": null,
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build1/branding.zip", "hash": "6a98aef373974d5eede4a7582aafa98ec9869ee068b4e74b204cd20bdc957c75"},
-			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"}
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"},
+			{"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build3/branding.zip", "hash": "bf7551cd935e57b139f5ffbdd0928aeeddb1e56bc2d6c18b186a9c00ca86efad"}
 		  ]
 	  },
 	  "resources": {
@@ -158,7 +181,8 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"},
-			{"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"}
+			{"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"},
+			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build6/resources.zip", "hash": "bd821b78a086a31cd17e4a609ee1a7805a3a029002eb3c4242a0afc3f643cc74"}
 		  ]
 	  },
 	  "skins": {
@@ -189,7 +213,8 @@
 		  "title": "Shader packs",
 		  "baseDirectories": null,
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/shaderpacks_build1/shaderpacks.zip", "hash": "6a932c1cd50546c11f8ecbe54a0414a18c6600326735a6f29f8fe50cda93041b"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/shaderpacks_build1/shaderpacks.zip", "hash": "6a932c1cd50546c11f8ecbe54a0414a18c6600326735a6f29f8fe50cda93041b"},
+			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/shaderpacks_build2/shaderpacks.zip", "hash": "9405beacfcd11c47527f0df4fea59cb40199184e446fef1155d649ad5cb86a2f"}
 		  ]
 	  }
   }
