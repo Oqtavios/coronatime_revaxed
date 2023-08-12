@@ -152,6 +152,11 @@
 			"java": 1,
 			"shaderpacks": 2
 		}
+	},
+	{
+		"title": "Что-то грядёт...",
+		"description": "А вы готовы?",
+		"image": "https://coronatime.itsleo.cc/news/images/no-more-creative-poster1.png",
 	}
   ],
   "parts": {
