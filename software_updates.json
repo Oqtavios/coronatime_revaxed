@@ -154,9 +154,9 @@
 		}
 	},
 	{
-		"title": "Что-то грядёт...",
-		"description": "Событие \"Coronatime: No More Creative\".\nКогда? Никто не знает.\nВы готовы?",
-		"image": "https://coronatime.itsleo.cc/news/images/no-more-creative-poster1.png"
+		"title": "Coronatime: No More Creative",
+		"description": "Представьте что вы проснулись, а креативного режима больше нeт, и за вами гoнитcя тoннa пoлицeйскиx. В городе стоит серый хаос и **только вы можете его спасти**. Всё, что вaм пoмoжeт: _oгpaблeниe бaнкa, угoн мaшины, взлoм бaзы дaнныx прaвитeльствa гoрoдa и.. вaш дядя._\nВстречайте в вашей игре когда-то в этом году. _~~все совпадения с реальностью являются случайными на 100%~~_",
+		"image": "https://coronatime.itsleo.cc/news/images/no-more-creative-poster2.png"
 	}
   ],
   "parts": {
@@ -173,7 +173,7 @@
 		  "baseDirectories": ["libraries"],
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/libraries_build1/libraries.zip", "hash": "6e4a43fda1d48d3f5272e719a0c431d0550da051691754d0b8a4f3eca25430c4"},
-			{"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/libraries_build2/libraries.zip", "hash": "78d5293aee610db3c293075389cfc3f5ef90654cc1cd9149e61bcf86ae389edb"}
+			{"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/libraries_build2/libraries.zip", "hash": "78d5293aee610db3c293075389cfc3f5ef90654cc1cd9149e61bcf86ae389edb", "macOS": {"link": "", "hash": ""}}
 		  ]
 	  },
 	  "versions": {
@@ -212,7 +212,8 @@
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build1/resources.zip", "hash": "41faf7467806cf056dd0d7a856c97b46bfa60f99c037262bcddda59576651a34"},
 			{"build": 3, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build3/resources.zip", "hash": "de8bc24ebf238504b7af790a81055efc1038dc0faffb02dad51d6bec6e1269a9"},
 			{"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"},
-			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build6/resources.zip", "hash": "bd821b78a086a31cd17e4a609ee1a7805a3a029002eb3c4242a0afc3f643cc74"}
+			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build6/resources.zip", "hash": "bd821b78a086a31cd17e4a609ee1a7805a3a029002eb3c4242a0afc3f643cc74"},
+			{"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build7/resources.zip", "hash": ""}
 		  ]
 	  },
 	  "skins": {
