@@ -169,7 +169,7 @@
 			"branding": 3,
 			"resources": 7,
 			"skins": 2,
-			"misc": 4,
+			"misc": 5,
 			"java": 1,
 			"shaderpacks": 2
 		}
@@ -253,7 +253,8 @@
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build1/misc.zip", "hash": "643122e8360054210c5afa8741318427de36e2b95d65f13b0b1c044cb825cc30"},
 			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build2/misc.zip", "hash": "37247ec42de6ccb8c6651f0e310ad589037612adccb9b9c0e82268601651dd74"},
 			{"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build3/misc.zip", "hash": "f03fcbc12287c00feed5c13544157010687be6131fc48019d3142547dd9a3acb"},
-			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build4/misc.zip", "hash": "03f208cc994631a88f6ca5dd87b8987d8180693e3804ef88b88ad19ab925f6bd"}
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build4/misc.zip", "hash": "03f208cc994631a88f6ca5dd87b8987d8180693e3804ef88b88ad19ab925f6bd"},
+			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build5/misc.zip", "hash": "f06477cb7d2f25a9f45ac69e9420083aad07f6eb51d2f934dbdfe2f064fe56ab"}
 		  ]
 	  },
 	  "java": {
