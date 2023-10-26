@@ -1,5 +1,5 @@
 {
-  "latest": 29,
+  "latest": 30,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -178,6 +178,28 @@
 		"title": "Coronatime: No More Creative",
 		"description": "Представьте что вы проснулись, а креативного режима больше нeт, и за вами гoнитcя тoннa пoлицeйскиx. В городе стоит серый хаос и **только вы можете его спасти**. Всё, что вaм пoмoжeт: _oгpaблeниe бaнкa, угoн мaшины, взлoм бaзы дaнныx прaвитeльствa гoрoдa и.. вaш дядя._\nВстречайте в вашей игре когда-то в этом году. _~~все совпадения с реальностью являются случайными на 111%~~_",
 		"image": "https://coronatime.itsleo.cc/news/images/no-more-creative-poster2.png"
+	},
+	{
+		"build": 30,
+		"minBaseVersion": 23,
+		"title": "2.3.2 - Юпперлиг. Без Креатива Очень Страшно",
+		"description": "_~~Перед установкой обновите лончер до последней версии (3.3.0)!~~_\n\nВсех с хэллоуином! 🎃💀\n - Представляем вам осеннее обновление, которое принесёт событие **Coronatime: No More Creative**.\n - На время праздника вы получите новый экран загрузки и фон в меню игры, а также ваши любимые могилы вместо кустарников 🪦.\n - В этой версии были обновлены 11 модов, особых изменений нет",
+		"image": "https://coronatime.itsleo.cc/news/images/build_30.png",
+		"triggerVideo": true,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 2,
+			"libraries": 2,
+			"versions": 2,
+			"mods": 9,
+			"branding": 4,
+			"resources": 8,
+			"skins": 2,
+			"misc": 5,
+			"java": 1,
+			"shaderpacks": 2,
+			"nomorecreative": 1
+		}
 	}
   ],
   "parts": {
@@ -216,7 +238,7 @@
 			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build6/mods.zip", "hash": "42827e6abd2bd103c8e71c3e02a3b90bb5a8edc8ede081664554157618491940"},
 			{"build": 7, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build7/mods.zip", "hash": "a594010ee212bdd9213e354c1f26cbaa7c29c4749d182ee92e00d675b14e0fed"},
 			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build8/mods.zip", "hash": "812423c5472757c5e761df0149c381aadcb8aca951ad130bf86a9517ca7931f7"},
-			{"build": 9, "previous": 8, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build9/mods.zip", "hash": ""}
+			{"build": 9, "previous": 8, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build9/mods.zip", "hash": "63ee18e6576dbbd40111f7e10f8fcfce2fc636ce7de19aa1778d4a1b345d0e0d"}
 		  ]
 	  },
 	  "branding": {
@@ -226,7 +248,7 @@
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build1/branding.zip", "hash": "6a98aef373974d5eede4a7582aafa98ec9869ee068b4e74b204cd20bdc957c75"},
 			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"},
 			{"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build3/branding.zip", "hash": "bf7551cd935e57b139f5ffbdd0928aeeddb1e56bc2d6c18b186a9c00ca86efad"},
-			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build4/branding.zip", "hash": ""}
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build4/branding.zip", "hash": "aef5b98f3ad4cc175113380d0a1edb59a01a79b219aa2fb7f75833e1b6c61300"}
 		  ]
 	  },
 	  "resources": {
@@ -238,7 +260,7 @@
 			{"build": 5, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build5/resources.zip", "hash": "c75407afb48cab2de531e0615f2c42278f05e37ccbc2f371dfdb7a38b5cffb62"},
 			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build6/resources.zip", "hash": "bd821b78a086a31cd17e4a609ee1a7805a3a029002eb3c4242a0afc3f643cc74"},
 			{"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build7/resources.zip", "hash": "334448fa5371669523eee9c0461c479cb3e87de870bddab88e6f2caad44ec1e4"},
-			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build8/resources.zip", "hash": ""}
+			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build8/resources.zip", "hash": "f9a6f31ab0234a80c426c234f7b8c1b9fde58787331f0967c798695b81051a2a"}
 		  ]
 	  },
 	  "skins": {
@@ -280,7 +302,7 @@
 		  "baseDirectories": null,
 		  "updateKey": "NMC202310NoMoreCreative",
 		  "versions": [
-			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/nomorecreative_build1/nomorecreative.zip", "hash": "ee8cd82848530407ac00b7a4d5cbc630056f47e0aaa96041b9e0a591b01339b4"}
+			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/nomorecreative_build1/nomorecreative.zip", "hash": "e68d2c7dc229608b464bd39e7fb0b183d8176e7187577c3a097ec7f3f7eaf3ba"}
 		  ]
 	  }
   }
