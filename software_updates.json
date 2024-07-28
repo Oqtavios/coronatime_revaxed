@@ -205,7 +205,7 @@
 		"build": 31,
 		"minBaseVersion": 23,
 		"title": "2.4.0 - Якобсбюн. Coronatime: Darker Times",
-		"description": "Игра затихла, моды обновляются медленно. Время Coronatime 2024 (или уже 2025) ещё не настало, но пора уже выпустить обновление.\n\nВПЕРВЫЕ, представляем промежуточную версию - Coronatime: Dark**er** Times! Тёмные стали ещё темнее...\n\nИзменения:\n - Оптимизация игры и параметров java - ещё больше FPS, пока ещё бесплатно и без регистрации.\n - Новый мод на мебель - Paladin Furniture, обустройство кухни и ванной на полную, а также - рабочие выключатели света.\n - Saro's Road Blocks - дороги, бордюры, от создателя мода на дорожные знаки.\n - Несколько quality-of-life модификаций и обновления большей части модов.",
+		"description": "Игра затихла, моды обновляются медленно. Время Coronatime 2024 (или уже 2025) ещё не настало, но пора уже выпустить обновление.\n\n_ВПЕРВЫЕ, представляем промежуточную версию - Coronatime: Dark**er** Times! Тёмные времена стали ещё темнее..._ Изменения:\n - Оптимизация игры и параметров java - ещё больше FPS, пока ещё бесплатно и без регистрации.\n - Новый мод на мебель - Paladin Furniture, обустройство кухни и ванной на полную, а также - рабочие выключатели света.\n - Saro's Road Blocks - дороги, бордюры, от создателя мода на дорожные знаки.\n - Несколько quality-of-life модификаций и обновления большей части модов.",
 		"image": "https://coronatime.itsleo.cc/news/images/build_31.png",
 		"triggerVideo": true,
 		"authenticationRequired": true,
@@ -248,7 +248,7 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build1/versions.zip", "hash": "cb3c3ccb891bd0d0fef6b818af133034807e8f33d8f663b8c8fd5eb06497a062"},
 			{"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build2/versions.zip", "hash": "16a3958ce183efaf4e82682e7147424d292d404ca1c97a96077a806e3358706a"},
-			{"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build4/versions.zip", "hash": "bd4b82a4b65b8669a36f0d77c150c0274e842c0f81b1a6e02288c089946dfcc6"}
+			{"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build3/versions.zip", "hash": "bd4b82a4b65b8669a36f0d77c150c0274e842c0f81b1a6e02288c089946dfcc6"}
 		  ]
 	  },
 	  "mods": {
