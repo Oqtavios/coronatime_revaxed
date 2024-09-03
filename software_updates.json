@@ -1,5 +1,5 @@
 {
-  "latest": 32,
+  "latest": 33,
   "versions": [
     {"build": null, "title": "Немного новостей", "description": "Клавиатурный монстр уже купил подарки, а ты?", "link": "", "hash": null, "previous": null},
 	{"build": null, "title": "Ещё больше новостей", "description": "Этот сезон стоит на продолжении предыдущего, поэтому название сборки - Coronatime: Revaxed (не пора ли нам всем уже?)\nКаждое обновление будет называться в честь какого-нибудь предмета из Икеи🪑, по алфавиту.\nВсем удачи, счастливого нового года🎄,  строим второй город и аэропорт 🛫!", "link": "", "hash": null, "previous": null, "image": null},
@@ -222,6 +222,28 @@
 			"shaderpacks": 2,
 			"nomorecreative": 1
 		}
+	},
+	{
+		"build": 33,
+		"minBaseVersion": 23,
+		"title": "2.4.1 - Алекс",
+		"description": " - Обновились **12** модов\n - Добавлен мод на **поезда** Лондонской подземки\n - Изменён формат логов и обновлён ресурспак\n\nP.S. _~~количество машин в меню игры: меньше 2O~~_",
+		"image": null,
+		"triggerVideo": false,
+		"authenticationRequired": true,
+		"parts": {
+			"assets": 2,
+			"libraries": 3,
+			"versions": 4,
+			"mods": 11,
+			"branding": 6,
+			"resources": 11,
+			"skins": 2,
+			"misc": 8,
+			"java": 1,
+			"shaderpacks": 2,
+			"nomorecreative": 1
+		}
 	}
   ],
   "parts": {
@@ -248,7 +270,8 @@
 		  "versions": [
 			{"build": 1, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build1/versions.zip", "hash": "cb3c3ccb891bd0d0fef6b818af133034807e8f33d8f663b8c8fd5eb06497a062"},
 			{"build": 2, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build2/versions.zip", "hash": "16a3958ce183efaf4e82682e7147424d292d404ca1c97a96077a806e3358706a"},
-			{"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build3/versions.zip", "hash": "bd4b82a4b65b8669a36f0d77c150c0274e842c0f81b1a6e02288c089946dfcc6"}
+			{"build": 3, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build3/versions.zip", "hash": "bd4b82a4b65b8669a36f0d77c150c0274e842c0f81b1a6e02288c089946dfcc6"},
+			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/versions_build4/versions.zip", "hash": "48163533e207f8ac96bc42db2f949055edeb97beaa326dafaa5d691c420361e5"}
 		  ]
 	  },
 	  "mods": {
@@ -263,7 +286,8 @@
 			{"build": 7, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build7/mods.zip", "hash": "a594010ee212bdd9213e354c1f26cbaa7c29c4749d182ee92e00d675b14e0fed"},
 			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build8/mods.zip", "hash": "812423c5472757c5e761df0149c381aadcb8aca951ad130bf86a9517ca7931f7"},
 			{"build": 9, "previous": 8, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build9/mods.zip", "hash": "63ee18e6576dbbd40111f7e10f8fcfce2fc636ce7de19aa1778d4a1b345d0e0d"},
-			{"build": 10, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build10/mods.zip", "hash": "3f4eb52ac450fc294b76d447fd0ac2f68abbb9cf76ff64088ea36d6051076d6c"}
+			{"build": 10, "previous": null, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build10/mods.zip", "hash": "3f4eb52ac450fc294b76d447fd0ac2f68abbb9cf76ff64088ea36d6051076d6c"},
+			{"build": 11, "previous": 10, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/mods_build11/mods.zip", "hash": "23d4bae602c74ea37400b62a60390ff158d198e945f1ffd49d5cdd5efad3fc19"}
 		  ]
 	  },
 	  "branding": {
@@ -274,7 +298,8 @@
 			{"build": 2, "previous": 1, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build2/branding.zip", "hash": "b605b492d86e00201dc1824b576d95bed8b054002f611d9b1da324d4a2cf9e8e"},
 			{"build": 3, "previous": 2, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build3/branding.zip", "hash": "bf7551cd935e57b139f5ffbdd0928aeeddb1e56bc2d6c18b186a9c00ca86efad"},
 			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build4/branding.zip", "hash": "aef5b98f3ad4cc175113380d0a1edb59a01a79b219aa2fb7f75833e1b6c61300"},
-			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build5/branding.zip", "hash": "d989f562bc83861b7e8d1de073927e9c66087f3b67729b840381a9a91bcfd9c6"}
+			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build5/branding.zip", "hash": "d989f562bc83861b7e8d1de073927e9c66087f3b67729b840381a9a91bcfd9c6"},
+			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/branding_build6/branding.zip", "hash": "fa33956ab90da6631727a787801f2bfb26795c9e057681413068e01cc10155f6"}
 		  ]
 	  },
 	  "resources": {
@@ -288,7 +313,8 @@
 			{"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build7/resources.zip", "hash": "334448fa5371669523eee9c0461c479cb3e87de870bddab88e6f2caad44ec1e4"},
 			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build8/resources.zip", "hash": "f9a6f31ab0234a80c426c234f7b8c1b9fde58787331f0967c798695b81051a2a"},
 			{"build": 9, "previous": 8, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build9/resources.zip", "hash": "d7283138b30650b24ce20e12093b47b41dee3e3ef5d5d312dcd9ce5e0468b390"},
-			{"build": 10, "previous": 9, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build10/resources.zip", "hash": "1acec542a973e9662b6f69b85090f854f4a140eafcf08def9cced3914ca633b5"}
+			{"build": 10, "previous": 9, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build10/resources.zip", "hash": "1acec542a973e9662b6f69b85090f854f4a140eafcf08def9cced3914ca633b5"},
+			{"build": 11, "previous": 10, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/resources_build11/resources.zip", "hash": "fb1acf6f9281627adfb3ac97365c8206eb815b0e01d8eeae3e2e92f9ec9e2c13"}
 		  ]
 	  },
 	  "skins": {
@@ -309,7 +335,8 @@
 			{"build": 4, "previous": 3, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build4/misc.zip", "hash": "03f208cc994631a88f6ca5dd87b8987d8180693e3804ef88b88ad19ab925f6bd"},
 			{"build": 5, "previous": 4, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build5/misc.zip", "hash": "f0eadec790f9fd58afd0aa0fc1a444aaacb3bb5c4a5634eee94302c07fe3af5c"},
 			{"build": 6, "previous": 5, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build6/misc.zip", "hash": "a7bf205ed8385153730b55efdbf3c08d40fda7ff6f8587818bfa1c7d81a1152c"},
-			{"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build7/misc.zip", "hash": "8ae5f32cf01ff87266e8b460c4d3ef2b5b891dd12320b6170039b65da047d34e"}
+			{"build": 7, "previous": 6, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build7/misc.zip", "hash": "8ae5f32cf01ff87266e8b460c4d3ef2b5b891dd12320b6170039b65da047d34e"},
+			{"build": 8, "previous": 7, "link": "https://github.com/Oqtavios/coronatime_revaxed/releases/download/misc_build8/misc.zip", "hash": "dfaeed46250c94e51eed75afe2221b5cdac28cce03ce21d83dae308eed33b122"}
 		  ]
 	  },
 	  "java": {
